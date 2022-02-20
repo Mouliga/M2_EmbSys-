@@ -2,7 +2,7 @@
  
   # Introduction
        
-       A water level indicator is a system that relays information back to a control panel to indicate whether a body of water has a high or low water level. Some water level indicators use a combination of probe sensors or float switches to sense water levels. The purpose of a water level indicator is to gauge and manage water levels in a water tank. The control panel can also be programmed to automatically turn on a water pump once levels get too low and refill the water back to the adequate level. A water level indicator sensor,also known as a probe sensor, is what tells the control panel that corrective action is needed. A combination of high and low sensors are used to tell the control panel when water are too high or too low. The control panel will then automatically turn the pump on or off depending on the corrective action needed. 
+     1.  A water level indicator is a system that relays information back to a control panel to indicate whether a body of water has a high or low water level. Some water level indicators use a combination of probe sensors or float switches to sense water levels. The purpose of a water level indicator is to gauge and manage water levels in a water tank. The control panel can also be programmed to automatically turn on a water pump once levels get too low and refill the water back to the adequate level. A water level indicator sensor,also known as a probe sensor, is what tells the control panel that corrective action is needed. A combination of high and low sensors are used to tell the control panel when water are too high or too low. The control panel will then automatically turn the pump on or off depending on the corrective action needed. 
      
   # Description
       
