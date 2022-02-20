@@ -19,10 +19,10 @@ Most water level indicators are equipped to indicate and detect only a single le
 So, the circuit not only capable of cautioning a person that the water tank has been filled up to certain level, but also indicates that the water level has fallen below the minimum detectable level. This circuit is important in appliances such as the water cooler where there is a danger of motor-burnout when there is no water in the radiator used up also it can be used in fuel level indication.   
 
  # Block Diagram:
-    ![image](https://user-images.githubusercontent.com/70700323/154846206-8cdc3948-25f6-4668-84d9-936d1f7bb47d.png)
+ ![image](https://user-images.githubusercontent.com/70700323/154846206-8cdc3948-25f6-4668-84d9-936d1f7bb47d.png)
 
-# Circuit Diagram:
-    ![image](https://user-images.githubusercontent.com/70700323/154846236-bfbd34e1-ccc1-4ee2-af29-ae424d47ee0c.png)
+ # Circuit Diagram:
+ ![image](https://user-images.githubusercontent.com/70700323/154846236-bfbd34e1-ccc1-4ee2-af29-ae424d47ee0c.png)
 
     
   
