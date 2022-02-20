@@ -1,4 +1,4 @@
-# Water Level Indicator:
+# WATER LEVEL INDICATOR:
  
 # Introduction:
 
@@ -23,4 +23,16 @@ So, the circuit not only capable of cautioning a person that the water tank has 
 
 # Circuit Diagram:
 ![image](https://user-images.githubusercontent.com/70700323/154847074-f2836b3a-1b32-447a-b1f8-9168dd13b7d4.png)
+
+# Features:
+
+Easy installation.
+Low maintenance.
+Compact elegant design.
+The Automatic water level controller ensures no overflows or dry running of pump there by saves electricity and water.
+Avoid seepage of roofs and walls due to overflowing tanks.
+Fully automatic, saves man power.
+Consume very little energy, ideal for continuous operation.
+Automatic water level controller provides you the flexibility to decide for yourself the water levels for operations of pump set.
+Shows clear indication of water levels in the overhead tank.
 
