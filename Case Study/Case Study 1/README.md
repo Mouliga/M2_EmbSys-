@@ -26,13 +26,13 @@ So, the circuit not only capable of cautioning a person that the water tank has 
 
 # Features:
 
-Easy installation.
-Low maintenance.
-Compact elegant design.
-The Automatic water level controller ensures no overflows or dry running of pump there by saves electricity and water.
-Avoid seepage of roofs and walls due to overflowing tanks.
-Fully automatic, saves man power.
-Consume very little energy, ideal for continuous operation.
-Automatic water level controller provides you the flexibility to decide for yourself the water levels for operations of pump set.
-Shows clear indication of water levels in the overhead tank.
+1.Easy installation.
+2.Low maintenance.
+3.Compact elegant design.
+4.The Automatic water level controller ensures no overflows or dry running of pump there by saves electricity and water.
+5.Avoid seepage of roofs and walls due to overflowing tanks.
+6.Fully automatic, saves man power.
+7.Consume very little energy, ideal for continuous operation.
+8.Automatic water level controller provides you the flexibility to decide for yourself the water levels for operations of pump set.
+9.Shows clear indication of water levels in the overhead tank.
 
