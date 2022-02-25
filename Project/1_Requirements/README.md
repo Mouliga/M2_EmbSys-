@@ -1,20 +1,17 @@
-# WIRELESS DOORBELL USING ARDUINO
+# SMART IRRIGATION SYSTEM:
 
 # Introduction:
-Traditional Doorbells are wired devices and are usually fixed at one place. They are becoming obsolete because of these reasons and are gradually being replace by advanced Wireless Doorbell Devices. With a wireless doorbell, the position of the switch and the bell is not fixed.
-We can place it anywhere we want and also the installation is pretty simple. The setup of wireless doorbell doesn’t require any internal wiring. Also, if the wired doorbell is not fixed while construction, we need to make holes for wiring and installation.
+Automatic Irrigation system monitors the soil moisture and depending on set points turns on/off the pump which is connected to the relay. This way you can keep soil moisture to a set point.This system automatically waters the plants when we are on vacation. As we are setting the soil moisture level, we need not worry about too much of watering and the plants end up dying anyway.The project is designed to develop an automatic irrigation system which switches the pump motor ON/OFF on sensing the moisture content of the soil.
 
 # Advantages:
-The advantage of using RF Transmitter – Receiver based Wireless Doorbell is that it is very easy to design the circuit and implement.
-The range of the transmission is fairly large. Hence, it is suitable for large homes.
-Another advantage over Bluetooth based data transmission is it doesn’t require any smart phone or Bluetooth enabled phone or any other Bluetooth device.
-In case the system is implemented using a Wi-Fi network, we need to make sure that both the transmitter and receiver are connected to the Wi-Fi network.
-Another wireless technology which can be used for Wireless Doorbell is IR. But the problem is that its range is less and also it is a Line of Sight Communication.
+Smart irrigation systems can optimize water levels based on things such as soil moisture and weather predictions.
+Long Term Enhanced Landscape Health.
+Protect The Community’s Water Supply For Generations.
 
-#Disadvantages:
-Both the Transmitter and Receiver parts of the circuit must be always turned on i.e. there should always be power.
-No additional security like camera integration and hence, the ringer of the bell can’t be determined.
+# Disadvantages:
+Smart watering system is a bit expensive.
+Depending on the size of your property, you will need more systems. Of course saving on water bills will lead to less cost. If you want to use this system for lawn watering, it's better to fix it under the ground before planting.
 
-# High Level Requirements:
 
-|--HL01--|
+# Hardware Components:
+
