@@ -12,7 +12,6 @@ Automatic Irrigation system monitors the soil moisture and depending on set poin
   * Smart watering system is a bit expensive.
   * Depending on the size of your property, you will need more systems. Of course saving on water bills will lead to less cost. If you want to use this system for lawn watering, it's better to fix it under the ground before planting.
 
-
 # Components:
   * Arduino
   * Bluetooth Module	
@@ -40,7 +39,30 @@ The relay module is an electrically operated switch that allows you to turn ON o
 # Peristaltic Pump:
 A peristaltic pump is a type of positive displacement pump used for pumping a variety of fluids. The fluid is contained within a flexible tube fitted inside a circular pump casing. It is reputed to pump water from a depth of about 31 feet.
 
-# 
-      
+# Working Principle:
+  * Soil moisture sensor, Temperature and Humidity sensor, Pump all are connected to major component arduino with Bluetooth connectivity.
+  * Once the values of temperature and moisture are generated on serial monitor. The threshold can also be notified on serial monitor itself.
+  *  And if result of Moisture, Temperature and Humidity goes below the threshold value the pump will automatically turn ON and if the level of Moisture, Temperature and Humidity increase upto threshold level of field then pump will automatically turn OFF.
+
+# Requirements:
+# High Level Requirements:
+ID   |        Description
+----------------------------------------------------------------------------
+HLR1 |   It shall controls the data and sense the devices
+HLR2 |   It shall transfers the data,when the data is received
+HLR3 |   It sahll recives the data, when the data is transfered
+HLR4 |   It shall measures the moisture level
+HRL5 |   It shall measures the temperature and air surrounding environment
+HLR6 |   It shall automatically ON/OFF the circuit
+
+# Low Level Rquirements:
+ID   |        Description                                                    | HRL ID
+-----------------------------------------------------------------------------------------
+LLR1 |   Arduino contols the data of the devices used                        | HLR1
+LLR2 |   Bluetooth module can transfer and receive the data and vice-versa   | HLR2,HLR3
+LLR3 |   Moisture sensor detects the water content of the soil               | HLR4
+LLR4 |   Temperature and Humidity sensor detects the water frequency and air | HLR5
+LLR5 |   Relay circuit allows automatic ON/OFF the circuit                   | HLR6
+
  
 
