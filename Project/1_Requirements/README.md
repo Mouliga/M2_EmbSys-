@@ -26,9 +26,9 @@ Automatic Irrigation system monitors the soil moisture and depending on set poin
   * Breadboard
  
 # Sensors:
-  # * Temperture and Humidity Sensor:
+   * Temperture and Humidity Sensor:
        * The temperature and humidity sensor is necessary to reduce the watering frequency. That is when the weather gets cooler, less water is needed whereas vice versa in the other case.
-  # * Soil Moisture sensor:
+   * Soil Moisture sensor:
        * The soil moisture sensor is used to measure the volumetric water content of soil. It is used to monitor soil moisture content to control irrigation in greenhouses. A moisture sensor is used to sense the level of moisture content present in irrigation field. It has a level detection module in which we can set a reference value.
     
 # Bluetooth Module:
