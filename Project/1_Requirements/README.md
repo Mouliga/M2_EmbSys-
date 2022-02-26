@@ -9,8 +9,8 @@ Automatic Irrigation system monitors the soil moisture and depending on set poin
   3. Project The Community’s Water Supply For Generations.
 
 # Disadvantages:
-Smart watering system is a bit expensive.
-Depending on the size of your property, you will need more systems. Of course saving on water bills will lead to less cost. If you want to use this system for lawn watering, it's better to fix it under the ground before planting.
+  * Smart watering system is a bit expensive.
+  * Depending on the size of your property, you will need more systems. Of course saving on water bills will lead to less cost. If you want to use this system for lawn watering, it's better to fix it under the ground before planting.
 
 
 # Components:
