@@ -14,4 +14,14 @@ Automatic Irrigation system monitors the soil moisture and depending on set poin
 
 
 # Components:
+  * Arduino
+  * Bluetooth Module	
+  * Temperature and Humidity Sensor	
+  * Soil moisture sensor	
+  * Peristaltic pump	
+  * LEDs	Red, Green and Yellow	
+  * Miscellaneous		
+  * Adaptor	
+  * Connecting Jumpers		
+  *Breadboard
 
