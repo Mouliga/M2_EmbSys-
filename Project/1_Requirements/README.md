@@ -47,7 +47,7 @@ A peristaltic pump is a type of positive displacement pump used for pumping a va
 # Requirements:
 # High Level Requirements:
 ID   |        Description
-----------------------------------------------------------------------------
+---- | -----------------------------------------------------------------------
 HLR1 |   It shall controls the data and sense the devices
 HLR2 |   It shall transfers the data,when the data is received
 HLR3 |   It sahll recives the data, when the data is transfered
@@ -57,7 +57,7 @@ HLR6 |   It shall automatically ON/OFF the circuit
 
 # Low Level Rquirements:
 ID   |        Description                                                    | HRL ID
------------------------------------------------------------------------------------------
+---- | --------------------------------------------------------------------- | -------------
 LLR1 |   Arduino contols the data of the devices used                        | HLR1
 LLR2 |   Bluetooth module can transfer and receive the data and vice-versa   | HLR2,HLR3
 LLR3 |   Moisture sensor detects the water content of the soil               | HLR4
