@@ -56,7 +56,7 @@ HRL5 |   It shall measures the temperature and air surrounding environment
 HLR6 |   It shall automatically ON/OFF the circuit
 
 # Low Level Rquirements:
-ID   |        Description                                                    | HRL ID
+ID   |        Description                                                    |HRL ID
 ---- | --------------------------------------------------------------------- | -------------
 LLR1 |   Arduino contols the data of the devices used                        | HLR1
 LLR2 |   Bluetooth module can transfer and receive the data and vice-versa   | HLR2,HLR3
