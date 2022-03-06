@@ -1,8 +1,7 @@
 # SMART IRRIGATION SYSTEM:
 
 # Introduction:
-Automatic Irrigation system monitors the soil moisture and depending on set points turns on/off the pump which is connected to the relay. This way you can keep soil moisture to a set point.This system automatically waters the plants when we are on vacation. As we are setting the soil moisture level, we need not worry about too much of watering and the plants end up dying anyway.The project is designed to develop an automatic irrigation system which switches the pump motor ON/OFF on sensing the moisture content of the soil.
-
+Smart Irrigation system is useful for watering the plants as it calculates the amount of moisture present in the soil.This way you can keep soil moisture to a set point.This system automatically waters the plants when we are on vacation. As we are setting the soil moisture level, we need not worry about too much of watering and the plants end up dying anyway.
 # Advantages:
   1. Smart irrigation systems can optimize water levels based on things such as soil moisture and weather predictions.
   2. Long Term Enhanced Landscape Health.
@@ -14,13 +13,10 @@ Automatic Irrigation system monitors the soil moisture and depending on set poin
 
 # Components:
   * Arduino
-  * Bluetooth Module	
-  * Temperature and Humidity Sensor	
-  * Soil moisture sensor	
-  * Peristaltic pump	
-  * LEDs	Red, Green and Yellow	
-  * Miscellaneous		
-  * Adaptor	
+  * Servo motor
+  * Soil moisture sensor
+  * Mini water pump
+  * Relay module
   * Connecting Jumpers		
   * Breadboard
 
@@ -29,20 +25,19 @@ Automatic Irrigation system monitors the soil moisture and depending on set poin
 ID   |        Description
 ---- | -----------------------------------------------------------------------
 HLR1 |   It shall controls the data and sense the devices
-HLR2 |   It shall transfers the data,when the data is received
-HLR3 |   It sahll recives the data, when the data is transfered
+HLR2 |   It shall controls the position of pipe
+HLR3 |   It shall transports water from one place to another
 HLR4 |   It shall measures the moisture level
-HRL5 |   It shall measures the temperature and air surrounding environment
-HLR6 |   It shall automatically ON/OFF the circuit
+HRL5 |   It shall automatically ON/OFF the circuit
 
 # Low Level Rquirements:
 ID   |        Description                                                    | HRL ID
 ---- | --------------------------------------------------------------------- | -------------
 LLR1 |   Arduino contols the data of the devices used                        |  HLR1
-LLR2 |   Bluetooth module can transfer and receive the data and vice-versa   |  HLR2,HLR3
+LLR2 |   Servo motor ensures the equal distribution of water to soil         |  HLR2
 LLR3 |   Moisture sensor detects the water content of the soil               |  HLR4
-LLR4 |   Temperature and Humidity sensor detects the water frequency and air |  HLR5
-LLR5 |   Relay circuit allows automatic ON/OFF the circuit                   |  HLR6
+LLR4 |   Water pump supplies water to plant surroundings                     |  HLR3
+LLR5 |   Relay circuit allows automatic ON/OFF the circuit                   |  HLR5
 
  
 
