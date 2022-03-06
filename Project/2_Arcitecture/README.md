@@ -22,7 +22,13 @@ It makes the smart irrigation controller, the Arduino will get the action on the
   * The water pipe is connected to the servo motor which rotates according to the requirement.
   * If there are two crops A & B and if A has less amount of moisture, then the servo motor rotates toward crop A and starts the watering and when it will fill up it will rotate towards crop B.
  
-# Behaviour Diagram:
+# Flow Chart:
+![Flowchart](https://user-images.githubusercontent.com/70700323/156916834-5e5025e8-d29d-431e-946d-329f86c96f1f.jpg)
+
+# Structural Diagram:
+![Structural](https://user-images.githubusercontent.com/70700323/156917455-aaa5f77c-b760-43c2-a8ae-3566e161b525.jpg)
+
+
 
 
 
