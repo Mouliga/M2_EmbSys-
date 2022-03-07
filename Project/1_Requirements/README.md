@@ -36,13 +36,12 @@ HLR3 |   It shall detects the intruders on their physical presence
 HLR4 |   It shall displays the output
 
 # Low Level Rquirements:
-ID   |        Description                                                    | HRL ID
----- | --------------------------------------------------------------------- | -------------
-LLR1 |   Arduino contols the data of the devices used                        |  HLR1
-LLR2 |   Servo motor helps sensor to cover larger area                       |  HLR2
-LLR3 |   Ultrasonic sensor can measure the distance to an obstacle 
-         within its conic beam.                                              |  HLR3
-LLR4 |   LCD screen displays the output                                      |  HLR4
+ID   |        Description                                                                  | HRL ID
+---- | ----------------------------------------------------------------------------------- | ------------
+LLR1 |   Arduino contols the data of the devices used                                      |  HLR1
+LLR2 |   Servo motor helps sensor to cover larger area                                     |  HLR2
+LLR3 |   Ultrasonic sensor can measure the distance to an obstacle within its conic beam.  |  HLR3
+LLR4 |   LCD screen displays the output                                                    |  HLR4
 
 
  
