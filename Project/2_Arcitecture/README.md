@@ -26,13 +26,7 @@ It makes the smart irrigation controller, the Arduino will get the action on the
 ![S Flowchart](https://user-images.githubusercontent.com/70700323/157254004-0eb7c230-0a42-48c7-b425-23ca4f07ad02.jpg)
 
 # Structural Diagram:
-![Structural](https://user-images.githubusercontent.com/70700323/156917455-aaa5f77c-b760-43c2-a8ae-3566e161b525.jpg)
-
-
-
-
-
-
+![Structural 1](https://user-images.githubusercontent.com/70700323/157256436-7e441f60-0b92-4d32-a8ba-d083b8dcf4dd.jpg)
 
 
 
