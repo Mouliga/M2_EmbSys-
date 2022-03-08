@@ -1,0 +1,75 @@
+<circuit noLinAcc="5" animate="0" Speed_sps="1000000" Speed_per="100" reactStep="50" type="simulide_0.4" Simu_Step_nS="1000">
+
+Unique  Id: LedBar-104: 
+Circuit Id: LedBar-104
+<item vflip="1" valLabRot="0" circRot="nan" y="-32" Size="8" mainComp="false" itemtype="LedBar" labelrot="0" rotation="90" Resistance="0.59999999999999998" objectName="LedBar-104" valLabelx="0" Show_id="false" MaxCurrent="0.029999999999999999" Grounded="false" Threshold="2.3999999999999999" id="LedBar-104" valLabely="0" circPos="0,0" Color="0" x="328" labely="-44" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+
+Unique  Id: Potentiometer-103: 
+Circuit Id: Potentiometer-103
+<item vflip="1" valLabRot="0" circRot="5.5880326504208342e-317" y="-148" Value_Ohm="1200" mainComp="false" itemtype="Potentiometer" labelrot="0" rotation="0" Resistance="10" objectName="Potentiometer-103" valLabelx="10" Unit=" kΩ" Show_id="false" id="Potentiometer-103" valLabely="-20" circPos="0,0" Show_res="true" x="-64" labely="-40" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+
+Unique  Id: Servo-102: 
+Circuit Id: Servo-102
+<item vflip="1" valLabRot="0" circRot="-5.1350141296726609e+305" y="-408" mainComp="false" itemtype="Servo" labelrot="0" rotation="-90" objectName="Servo-102" valLabelx="0" Show_id="true" id="Servo-102" valLabely="0" circPos="0,0" x="-252" Speed="0.20000000000000001" labely="-40" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+
+Unique  Id: Arduino Uno-101: 
+Circuit Id: Arduino Uno-101
+<item vflip="1" varList=",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,," valLabRot="0" Program="../../../../OneDrive/Pictures/Security_System_1/Security_System_1.ino.with_bootloader.standard.hex" circRot="1.4821969375237396e-323" y="-232" mainComp="false" itemtype="Arduino" labelrot="0" rotation="90" objectName="Arduino Uno-101" valLabelx="0" Show_id="true" id="Arduino Uno-101" Logic_Symbol="false" Mhz="16" valLabely="0" Init_gdb="false" circPos="0,0" Name="arduinoUno" x="-396" eeprom="255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255,255" labely="-21" Auto_Load="false" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="100"/>
+
+Unique  Id: SR04-100: 
+Circuit Id: SR04-100
+<item vflip="1" valLabRot="0" circRot="nan" y="-312" mainComp="false" itemtype="SR04" labelrot="0" rotation="0" objectName="SR04-100" valLabelx="0" Show_id="false" id="SR04-100" valLabely="0" circPos="0,0" x="88" labely="-48" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+
+Unique  Id: AudioOut-137: 
+Circuit Id: AudioOut-137
+<item vflip="1" Impedance="8" valLabRot="0" circRot="1.6911878666273138e-306" y="-296" mainComp="false" itemtype="AudioOut" labelrot="0" rotation="-90" objectName="AudioOut-137" valLabelx="0" Show_id="false" id="AudioOut-137" valLabely="0" circPos="0,0" x="-364" labely="-36" Buzzer="false" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-20"/>
+
+Unique  Id: Connector-122: 
+Circuit Id: Connector-122
+<item vflip="1" pointList="-268,-360,-268,-192" valLabRot="0" circRot="-6.0502647736395967e-311" y="-360" mainComp="false" itemtype="Connector" enodeid="Circ_eNode-138" labelrot="0" rotation="0" objectName="Connector-122" valLabelx="0" Show_id="false" id="Connector-122" endpinid="Arduino Uno-101-PD6" valLabely="0" startpinid="Servo-102-in0" circPos="0,0" x="-268" labely="-24" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+
+Unique  Id: Connector-128: 
+Circuit Id: Connector-128
+<item vflip="1" pointList="88,-264,88,-148,-48,-148" valLabRot="0" circRot="0" y="-264" mainComp="false" itemtype="Connector" enodeid="Circ_eNode-139" labelrot="0" rotation="0" objectName="Connector-128" valLabelx="0" Show_id="false" id="Connector-128" endpinid="Potentiometer-103-PinB" valLabely="0" startpinid="SR04-100-trigpin" circPos="0,0" x="88" labely="-24" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+
+Unique  Id: Connector-129: 
+Circuit Id: Connector-129
+<item vflip="1" pointList="-80,-148,-164,-148,-164,-232,-244,-232,-244,-192" valLabRot="0" circRot="0" y="-148" mainComp="false" itemtype="Connector" enodeid="Circ_eNode-140" labelrot="0" rotation="0" objectName="Connector-129" valLabelx="0" Show_id="false" id="Connector-129" endpinid="Arduino Uno-101-PD3" valLabely="0" startpinid="Potentiometer-103-PinA" circPos="0,0" x="-80" labely="-24" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+
+Unique  Id: Connector-130: 
+Circuit Id: Connector-130
+<item vflip="1" pointList="96,-264,96,-120,-196,-120,-196,-216,-236,-216,-236,-192" valLabRot="0" circRot="0" y="-264" mainComp="false" itemtype="Connector" enodeid="Circ_eNode-141" labelrot="0" rotation="0" objectName="Connector-130" valLabelx="0" Show_id="false" id="Connector-130" endpinid="Arduino Uno-101-PD2" valLabely="0" startpinid="SR04-100-outpin" circPos="0,0" x="96" labely="-24" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+
+Unique  Id: Connector-138: 
+Circuit Id: Connector-138
+<item vflip="1" pointList="-364,-280,-340,-280,-340,-192" valLabRot="0" circRot="0" y="-280" mainComp="false" itemtype="Connector" enodeid="Circ_eNode-142" labelrot="0" rotation="0" objectName="Connector-138" valLabelx="0" Show_id="false" id="Connector-138" endpinid="Arduino Uno-101-GND0" valLabely="0" startpinid="AudioOut-137-rPin" circPos="0,0" x="-364" labely="-24" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+
+Unique  Id: Connector-142: 
+Circuit Id: Connector-142
+<item vflip="1" pointList="-372,-280,-372,-224,-276,-224,-276,-192" valLabRot="0" circRot="0" y="-280" mainComp="false" itemtype="Connector" enodeid="Circ_eNode-143" labelrot="0" rotation="0" objectName="Connector-142" valLabelx="0" Show_id="false" id="Connector-142" endpinid="Arduino Uno-101-PD7" valLabely="0" startpinid="AudioOut-137-lPin" circPos="0,0" x="-372" labely="-24" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+
+Unique  Id: Connector-143: 
+Circuit Id: Connector-143
+<item vflip="1" pointList="-332,-192,-332,-252,168,-252,168,-72,320,-72,320,-48" valLabRot="0" circRot="0" y="-192" mainComp="false" itemtype="Connector" enodeid="Circ_eNode-144" labelrot="0" rotation="0" objectName="Connector-143" valLabelx="0" Show_id="false" id="Connector-143" endpinid="LedBar-104-led4-pinP" valLabely="0" startpinid="Arduino Uno-101-PB5" circPos="0,0" x="-332" labely="-24" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+
+Unique  Id: Connector-144: 
+Circuit Id: Connector-144
+<item vflip="1" pointList="-324,-192,-324,-244,160,-244,160,-64,312,-64,312,-48" valLabRot="0" circRot="0" y="-192" mainComp="false" itemtype="Connector" enodeid="Circ_eNode-145" labelrot="0" rotation="0" objectName="Connector-144" valLabelx="0" Show_id="false" id="Connector-144" endpinid="LedBar-104-led5-pinP" valLabely="0" startpinid="Arduino Uno-101-PB4" circPos="0,0" x="-324" labely="-24" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+
+Unique  Id: Connector-145: 
+Circuit Id: Connector-145
+<item vflip="1" pointList="-252,-192,-252,-236,124,-236,124,-96,344,-96,344,-48" valLabRot="0" circRot="0" y="-192" mainComp="false" itemtype="Connector" enodeid="Circ_eNode-146" labelrot="0" rotation="0" objectName="Connector-145" valLabelx="0" Show_id="false" id="Connector-145" endpinid="LedBar-104-led1-pinP" valLabely="0" startpinid="Arduino Uno-101-PD4" circPos="0,0" x="-252" labely="-24" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+
+Unique  Id: Connector-146: 
+Circuit Id: Connector-146
+<item vflip="1" pointList="-308,-192,-308,-220,328,-220,328,-48" valLabRot="0" circRot="0" y="-192" mainComp="false" itemtype="Connector" enodeid="Circ_eNode-147" labelrot="0" rotation="0" objectName="Connector-146" valLabelx="0" Show_id="false" id="Connector-146" endpinid="LedBar-104-led3-pinP" valLabely="0" startpinid="Arduino Uno-101-PB2" circPos="0,0" x="-308" labely="-24" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+
+Unique  Id: Connector-147: 
+Circuit Id: Connector-147
+<item vflip="1" pointList="-292,-48,-292,52,-516,52,-516,-332,-252,-332,-252,-360" valLabRot="0" circRot="0" y="-48" mainComp="false" itemtype="Connector" enodeid="Circ_eNode-148" labelrot="0" rotation="0" objectName="Connector-147" valLabelx="0" Show_id="false" id="Connector-147" endpinid="Servo-102-in1" valLabely="0" startpinid="Arduino Uno-101-GND2" circPos="0,0" x="-292" labely="-24" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+
+Unique  Id: Connector-150: 
+Circuit Id: Connector-150
+<item vflip="1" pointList="-236,-360,-136,-360,-136,84,-276,84,-276,-48" valLabRot="0" circRot="0" y="-360" mainComp="false" itemtype="Connector" enodeid="Circ_eNode-151" labelrot="0" rotation="0" objectName="Connector-150" valLabelx="0" Show_id="false" id="Connector-150" endpinid="Arduino Uno-101-Vin" valLabely="0" startpinid="Servo-102-in2" circPos="0,0" x="-236" labely="-24" boardRot="-1000000" hflip="1" boardPos="-1e+06,-1e+06" labelx="-16"/>
+ 
+</circuit>
