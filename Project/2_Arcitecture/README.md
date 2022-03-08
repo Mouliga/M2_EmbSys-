@@ -1,5 +1,5 @@
 # Block Diagram:
-![Irrigation](https://user-images.githubusercontent.com/70700323/156915301-116b7dae-c7db-41f9-bfb8-5addd054a777.jpg)
+![security](https://user-images.githubusercontent.com/70700323/157249499-d1b58178-04f7-4711-b0ec-8be707e3c68b.jpg)
 
 # Sensors:
   * Soil Moisture sensor:
